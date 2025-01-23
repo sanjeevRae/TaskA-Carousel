@@ -22,5 +22,4 @@ This project is a carousel made using HTML, CSS, and JavaScript. It was created 
 
 
 ## Live Demo
-View the live demo here:
-https://sanjeevrae.github.io/TaskB-KANBAN-BOARD/
+View the live demo here:https://sanjeevrae.github.io/TaskA-Carousel/
